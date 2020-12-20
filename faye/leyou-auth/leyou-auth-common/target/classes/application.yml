@@ -1,0 +1,5 @@
+zuul:
+  routes:
+    service-provider: /service-provider/**
+    service-consumer: /service-consumer/**
+  prefix: /api # 添加路由前缀

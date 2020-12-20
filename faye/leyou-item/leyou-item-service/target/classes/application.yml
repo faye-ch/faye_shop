@@ -1,0 +1,26 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource: #数据源
+    url: jdbc:mysql:///hm49
+    username: root
+    password: root
+  rabbitmq:
+    host: 127.0.0.1
+    virtual-host: /leyou
+    username: leyou
+    password: leyou
+    template:
+      exchange: LEYOU.ITEM.EXCHANGE
+    publisher-confirms: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5 #5秒钟打一次心跳
+    lease-expiration-duration-in-seconds: 10 #10秒不发送就过期
+mybatis:
+  type-aliases-package: com.leyou.item.pojo # mybatis 的别名扫描,扫描后就可以不用全限定路径了,直接用对象名

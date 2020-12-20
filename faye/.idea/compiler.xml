@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leyou-auth-common" />
+        <module name="leyou-auth-service" />
+        <module name="leyou-cart" />
+        <module name="leyou-common" />
+        <module name="leyou-gateway" />
+        <module name="leyou-getway" />
+        <module name="leyou-goods-web" />
+        <module name="leyou-item-interfaces" />
+        <module name="leyou-item-service" />
+        <module name="leyou-order" />
+        <module name="leyou-register" />
+        <module name="leyou-search" />
+        <module name="leyou-sms" />
+        <module name="leyou-upload" />
+        <module name="leyou-user-interface" />
+        <module name="leyou-user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyou" target="1.8" />
+      <module name="leyou-auth" target="1.8" />
+      <module name="leyou-auth-common" target="1.8" />
+      <module name="leyou-auth-service" target="1.8" />
+      <module name="leyou-cart" target="1.8" />
+      <module name="leyou-common" target="1.8" />
+      <module name="leyou-gateway" target="1.8" />
+      <module name="leyou-getway" target="1.8" />
+      <module name="leyou-goods-web" target="1.8" />
+      <module name="leyou-item" target="1.8" />
+      <module name="leyou-item-interfaces" target="1.8" />
+      <module name="leyou-item-service" target="1.8" />
+      <module name="leyou-order" target="1.8" />
+      <module name="leyou-register" target="1.8" />
+      <module name="leyou-search" target="1.8" />
+      <module name="leyou-sms" target="1.8" />
+      <module name="leyou-upload" target="1.8" />
+      <module name="leyou-user" target="1.8" />
+      <module name="leyou-user-interface" target="1.8" />
+      <module name="leyou-user-service" target="1.8" />
+      <module name="leyouiteminterface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
