@@ -37,7 +37,7 @@
 
 2.leyou-manage-web(后台): 在 Terminal 中输入指令运行指令: npm start，若运行出错则删掉 node_modules 目录，重新执行npm install 命令，再运行。
 
-3.leyou (服务器): 启动微服务
+3.faye (服务器): 启动微服务
 
  
 
