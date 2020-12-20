@@ -1,0 +1,1437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a90f16f2-29c4-42df-9516-9b0deefb30b6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-676256267">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="leyou-manage-web" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.multiModuleProjectDirectory=MAVEN_HOME" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/@babel/helper-module-imports/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/@babel/types/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/acorn-dynamic-import/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-includes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/async-limiter/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/async-validator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-code-frame/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-code-frame/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-code-frame/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-core/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-generator/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-bindify-decorators/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-explode-class/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helper-vue-jsx-merge-props/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-import/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-async-generators/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-decorators/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-async-generator-functions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-decorators/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-runtime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-plugin-transform-vue-jsx/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-preset-stage-2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-preset-stage-3/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/batch-processor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bfj-node4/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bonjour/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/braces/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/braces/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/braces/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cacache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/caniuse-api/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/check-types/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clap/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clap/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clap/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cli-spinners/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/copy-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/copy-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cosmiconfig/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cosmiconfig/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-selector-tokenizer/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-selector-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/csso/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cuint/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/cyclist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/d/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/date-now/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/de-indent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/deepmerge/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/del/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/del/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dir-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dom-converter/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dom-converter/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/duplexer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/duplexify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/echarts/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ejs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-resize-detector/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/node_modules/deepmerge/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/carousel/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/cascader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/color-picker/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/date-picker/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/loading/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/pagination/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/table/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/element-ui/packages/upload/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/error-stack-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es5-ext/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es6-iterator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es6-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es6-set/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es6-symbol/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/es6-weak-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/escope/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/event-emitter/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-range/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-range/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-range/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extend-shallow/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/extract-text-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fast-diff/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fastparse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/file-loader/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/file-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/file-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/filesize/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fill-range/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/flush-write-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/friendly-errors-webpack-plugin/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/friendly-errors-webpack-plugin/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/friendly-errors-webpack-plugin/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/friendly-errors-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/from2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fs-write-stream-atomic/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-base/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-base/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-base/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/growly/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/gzip-size/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hash-sum/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/html-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/htmlparser2/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/htmlparser2/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/extglob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/micromatch/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/micromatch/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/icss-replace-symbols/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/icss-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/iferr/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/indexof/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-directory/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-odd/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-odd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/iview/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/js-calendar/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/json-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/last-call-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/load-json-file/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lodash.throttle/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/macaddress/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/md5.js/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/micromatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mississippi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/move-concurrently/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/nanomatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ncname/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/next-tick/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/node-forge/flash/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/node-libs-browser/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/node-notifier/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/normalize-wheel/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/opener/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/optimize-css-assets-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ora/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/original/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parallel-transform/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parchment/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parse-glob/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parse-glob/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/popper.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/portfinder/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-import/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-load-config/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-load-options/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-load-plugins/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-loader/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-loader/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-modules-local-by-default/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-modules-scope/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-modules-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/prettier/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pretty-error/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/promise-inflight/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pump/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/pumpify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/quill-delta/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/quill/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/quill/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/quill/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-cache/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-pkg/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-pkg/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/readdirp/examples/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/rechoir/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/reduce-css-calc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/reduce-function-call/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/relateurl/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/renderkid/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/renderkid/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/require-from-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/run-queue/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/serialize-javascript/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/set-immediate-shim/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/set-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/shelljs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/shellwords/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs-client/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-map-support/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ssri/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stackframe/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stream-each/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/stream-shift/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string-length/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/throttle-debounce/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/through2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/tinycolor2/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/toposort/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/tryer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglifyjs-webpack-plugin/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglifyjs-webpack-plugin/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglifyjs-webpack-plugin/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglifyjs-webpack-plugin/node_modules/uglify-es/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/union-value/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/union-value/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uniqid/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unique-filename/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unique-slug/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url-loader/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url-parse/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/use/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/util/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-hot-reload-api/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-quill-editor/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-router/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-style-loader/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-template-compiler/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue-template-es2015-compiler/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/vuetify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-bundle-analyzer/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-merge/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/whet.extend/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/ws/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/xml-char-classes/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/xxhashjs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs-parser/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs/node_modules/cliui/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/node_modules/zrender/package.json" />
+      <path value="$PROJECT_DIR$/leyou-manage-web/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="780" />
+    <option name="y" value="124" />
+    <option name="width" value="1068" />
+    <option name="height" value="855" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leyou-manage-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leyou-manage-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leyou-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="leyou-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leyou-manage-web" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a90f16f2-29c4-42df-9516-9b0deefb30b6" name="Default" comment="" />
+      <created>1587170941432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587170941432</updated>
+      <workItem from="1587170943694" duration="72000" />
+      <workItem from="1590635394498" duration="68000" />
+      <workItem from="1591249368113" duration="45000" />
+      <workItem from="1607562601321" duration="253000" />
+      <workItem from="1607563155737" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1041000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="780" y="124" width="1068" height="855" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10144927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33501005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
